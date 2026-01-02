@@ -16,7 +16,7 @@ I am an aspiring Web Development  with basic knowledge of HTML, CSS, JavaScript,
 - Git workflows and collaboration
 
 ## Resume
-📄 My resume is available in this repository.
+📄 Resume: [Download Resume](./resume.pdf)
 
 ## Looking For
 I am actively looking for a 6-month remote web development internship where I can learn and grow by working on real projects.
